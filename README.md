@@ -21,7 +21,7 @@
 
 ## 💼 Proyectos Destacados
 
-### 🍬 [**Cierre de Caja - Mis Dulces**](https://resilient-blini-e3fdbd.netlify.app/)
+### 🍬 [**Cierre de Caja - Mis Dulces**](https://cierre-de-caja.netlify.app/)
 
 Aplicación web moderna para registrar y analizar el cierre diario de ventas.
 Incluye cálculo de ingresos por métodos de pago, gráficos dinámicos con **Chart.js**, y envío automatizado de reportes vía **WhatsApp**.
@@ -29,7 +29,7 @@ Incluye cálculo de ingresos por métodos de pago, gráficos dinámicos con **Ch
 
 ---
 
-### 📊 [**Análisis de Ventas - Super18**](https://github.com/pipediaz1234/analisis-de-ventas-Super18-Italo-super-triunfo)
+### 📊 [**Análisis de Ventas - Super18**](https://github.com/pipediaz1234/analisis-de-ventas-Super18-italo-super-triunfo-)
 
 Dashboard interactivo para visualizar métricas de ventas, productos más rentables y rendimiento por tienda.
 Ideal para la toma de decisiones en entornos comerciales.
