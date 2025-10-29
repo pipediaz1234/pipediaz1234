@@ -79,7 +79,6 @@ Muestra el poder del análisis de datos en la toma de decisiones empresariales.
 📄 **[Descargar mi Hoja de Vida (PDF)](./CV_Andres_Felipe_Diaz_Campos.pdf)**
 
 
-)**
 
 </div>
 
