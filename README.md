@@ -76,6 +76,8 @@ Muestra el poder del análisis de datos en la toma de decisiones empresariales.
 🌍 [**Portafolio Web**](https://68ef40f8df43f26120ed2783--curious-pixie-6680e5.netlify.app/)
 💼 [**LinkedIn**](https://linkedin.com/in/andres-felipe-diaz-campos-398245207)
 🐙 [**GitHub**](https://github.com/pipediaz1234)
+📄 **[Descargar mi Hoja de Vida (PDF)](./CV_Andres_Felipe_Diaz_Campos.pdf)
+)**
 
 </div>
 
